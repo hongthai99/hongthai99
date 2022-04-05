@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hongthai99
-- 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning about VueJs
-- 💞️ I’m looking to collaborate on frontend developer
+- 👀 I’m interested in Data Scientist (Retail Forecasting) Remote.
+- 🌱 I’m currently working with Product Management at Tiki Corp with awesome teammates.
+- 💞️ I’m looking finding remote job about Data Scientist (Retail Forecasting).
 - 📫 How to reach me in bachh.thai@gmail.com
 
 <!---
