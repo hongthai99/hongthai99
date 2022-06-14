@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hongthai99
 - 👀 I’m interested in Data Scientist (Retail Forecasting).
-- 🌱 I’m currently working with Product Management at Tiki Corp, ex-MWG as software engineer with awesome teammates ❤️.
+- 💁 I'm former Software Engineer at Mobile World Invesment Group (MWG)
+- 🌱 I’m currently working with Technical Product Management at Tiki Corp with awesome teammates ❤️.
 - 💞️ I’m looking finding remote job about Data Scientist (Retail Forecasting).
 - 📫 How to reach me in bachh.thai@gmail.com
 
